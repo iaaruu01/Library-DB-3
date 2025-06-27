@@ -1,4 +1,3 @@
-
 -- Insert Author 
 INSERT INTO `library`.`author` (`AuthorID`, `Name`) VALUES ('1', 'J.K Rowling');
 INSERT INTO `library`.`author` (`AuthorID`, `Name`) VALUES ('2', 'George');
